@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CATALOGO DE VENTAS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="Settings">Volver</string>
+    <string name="titulo0">Auriculares</string>
+    <string name="Prod0">Marca patito con cables e inalambricos para que los uses donde quiera que vayas</string>
+    <string name="action_settings" />
+    <string name="titulo1" />
+    <string name="Prod1" />
+</resources>

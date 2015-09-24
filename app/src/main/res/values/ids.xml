@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView_imagen" type="id" />
+    <item name="textView_superior" type="id" />
+    <item name="textView_inferior" type="id" />
+</resources>
